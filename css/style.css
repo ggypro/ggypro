@@ -1,0 +1,50 @@
+.move-a-bit{
+	font-family: courier;
+	padding-right: 30em;
+}
+
+@font-face {
+    font-family: courier-custom;
+    src: url(../fonts/courier.ttf);
+}
+
+.icon-down {
+	display: table-row;;
+	/*position: relative;*/
+    text-align: center;
+    vertical-align: middle;
+    /*margin-top:20em;*/
+}
+
+.logo-shortcut{
+	color:black;
+}
+a:hover{
+	color:red;
+}
+
+.bg-black{
+	background-color: black;
+}
+
+btn:hover{
+	color:red;
+}
+.to-white{
+	color:white;
+}
+
+.full-page{
+    display: table;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.middle{
+	margin:10% auto;
+}
