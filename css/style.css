@@ -1,23 +1,11 @@
-.move-a-bit{
-	font-family: courier;
-	padding-right: 30em;
-}
-
-@font-face {
-    font-family: courier-custom;
-    src: url(../fonts/courier.ttf);
-}
-
 .icon-down {
 	display: table-row;;
-	/*position: relative;*/
     text-align: center;
     vertical-align: middle;
-    /*margin-top:20em;*/
 }
 
 .logo-shortcut{
-	color:black;
+	color:white;
 }
 a:hover{
 	color:red;
